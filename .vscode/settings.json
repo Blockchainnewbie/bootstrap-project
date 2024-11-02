@@ -1,0 +1,31 @@
+{
+    "liveServer.settings.port": 5500,
+    "liveServer.settings.root": "/",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.ignoreFiles": [
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass"
+    ],
+    "liveServer.settings.host": "localhost",
+    "liveServer.settings.useLocalIp": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.NoBrowser": false,
+    "liveServer.settings.https": false,
+    "liveServer.settings.proxy": {
+        "enable": true,
+        "baseUri": "/",
+        "proxyUri": "http://127.0.0.1:8000"
+    },
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe"
+},
+{
+    "fiveServer.port": 5500,
+    "fiveServer.navigate": true,
+    "fiveServer.php.server": "C:\\xampp\\php\\php.exe",
+    "fiveServer.php.validate": true,
+    "fiveServer.browserPreview.enable": true,
+    "fiveServer.php.root": "./",
+    "fiveServer.highlight": true,
+    "fiveServer.injectBody": true
+}

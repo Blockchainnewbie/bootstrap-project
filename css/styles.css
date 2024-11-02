@@ -1,0 +1,40 @@
+/* Allgemeine Styles */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header Styles */
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+    background: #ca6363;
+}
+
+/* Hauptinhalt Styles */
+.container {
+    flex: 1;
+    background: #08a508;
+}
+
+/* Footer Styles */
+.footer {
+    margin-top: auto;
+    background-color: #f8f9fa;
+    border-top: 1px solid #dee2e6;
+}
+
+.footer h5 {
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+.footer a {
+    color: #666;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: #333;
+    text-decoration: underline;
+}
